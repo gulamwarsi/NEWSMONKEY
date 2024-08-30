@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Elon Musk sues Unilever and Mars over X advertising 'boycott'",
+        "description": "The social media site claims the firms unfairly deprived it of billions of dollars of advertising revenue.",
+        "url": "https://www.bbc.co.uk/news/articles/cn47798gxx4o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6513/live/a2759e90-5432-11ef-8011-afa70569b372.jpg",
+        "publishedAt": "2024-08-07T14:37:20.633613Z",
+        "content": "The lawsuit relates to the period in 2022 just after Mr Musk bought X, then known as Twitter, when advertising revenue dived.\r\nSome companies had been wary of advertising on the platform as concerns … [+1467 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Hamas attack: Final missing Israeli victim declared dead",
+        "description": "Until now, no trace had been found of Bilha Yinon, whose house was burnt down on 7 October.",
+        "url": "https://www.bbc.co.uk/news/articles/cwyxleqky15o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d5dc/live/34524420-549d-11ef-8f0f-0577398c3339.jpg",
+        "publishedAt": "2024-08-07T14:07:15.4938382Z",
+        "content": "Previously even fingertip searches in the ash and debris had failed to find as much as a trace of Bilha's DNA.\r\nThe couple's children had long accepted their mother was murdered on the day of the att… [+1235 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Shamima Begum loses citizenship removal appeal bid",
+        "description": "The 24-year-old will not be allowed to challenge the removal of her British citizenship at the Supreme Court.",
+        "url": "https://www.bbc.co.uk/news/articles/cm2n8xv61x3o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d5bd/live/f9ce3090-54b8-11ef-b39c-e325fe012747.jpg",
+        "publishedAt": "2024-08-07T13:52:17.2600897Z",
+        "content": "Ms Begum, who left Bethnal Green, east London, with two schoolfriends in 2015, was later found in a Syrian refugee camp.\r\nShe married an Islamic State fighter soon after arriving and went on to have … [+861 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Putin accuses Ukraine of 'provocation' amid alleged border incursion",
+        "description": "Fighting has been taking place since Tuesday, with footage showing smoke rising in some areas.",
+        "url": "https://www.bbc.co.uk/news/articles/cm2n9y4nm3lo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/cc2b/live/5496d7c0-54aa-11ef-b2d2-cdb23d5d7c5b.jpg",
+        "publishedAt": "2024-08-07T12:07:17.8837108Z",
+        "content": "Fighting reportedly took place in various villages on Russian territory throughout Tuesday. It was followed by Ukrainian air attacks which killed three civilians and continued into the night, Russian… [+2051 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Daisy Ridley reveals Graves' disease diagnosis",
+        "description": "The Star Wars actress initially put the symptoms down to the effects of making a stressful film.",
+        "url": "https://www.bbc.co.uk/news/articles/cy0rl8kpvz2o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/607d/live/fe2f54b0-54a0-11ef-bd2e-a5cf6a965cf9.jpg",
+        "publishedAt": "2024-08-07T11:22:17.8379856Z",
+        "content": "Ridley realised she had been feeling particularly irritable, she said.\r\n\"It was funny. I was like, oh, I just thought I was annoyed at the world, but turns out everything is functioning so quickly, y… [+1058 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "'Squad' member Cori Bush loses congressional primary",
+        "description": "Ms Bush was unseated in Missouri's first congressional district by St Louis prosecutor Wesley Bell.",
+        "url": "https://www.bbc.co.uk/news/articles/cewlle7jrgdo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f8b1/live/1c29c3f0-542f-11ef-8f0f-0577398c3339.jpg",
+        "publishedAt": "2024-08-07T06:52:13.3371156Z",
+        "content": "Projections from both the Associated Press news agency and NBC News suggest Mr Bell is on track to win the vote with 51% of ballots cast, compared to Ms Bush's 46%. \r\nThe district is a strongly Democ… [+2418 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Tim Walz: Chinese social media users react to Harris VP pick",
+        "description": "The Democratic Party's vice presidential nominee spent a year teaching in Guangdong in 1989.",
+        "url": "https://www.bbc.co.uk/news/articles/c74j887e710o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/20d1/live/92c62ac0-5467-11ef-ab45-e14b702a23a7.jpg",
+        "publishedAt": "2024-08-07T06:37:14.414635Z",
+        "content": "The 60-year-old Minnesota governor was a history teacher and football coach before he joined politics.\r\nHe was fresh out of college when he moved to China to teach English and American history at a h… [+2493 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Alaska Airlines blowout: Crew detail 'chaos' after mid-air blowout",
+        "description": "Boeing tells officials it will introduce design changes to 737 Max 9 planes after mid-air incident.",
+        "url": "https://www.bbc.co.uk/news/articles/cg4yqq72dyeo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/cc1b/live/cdfe1010-546e-11ef-b6bc-85f102b95748.jpg",
+        "publishedAt": "2024-08-07T06:07:16.2897124Z",
+        "content": "In the more than 3,000 pages of documents released ahead of the hearing, the plane's crew described the violent decompression that resulted from the panel detaching mid-flight.\r\nThe plane's co-pilot … [+1940 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Sheikh Hasina: Inside her final hours as a hated autocrat",
+        "description": "The woman who ruled Bangladesh with an iron grip was in denial her time was up right to the end.",
+        "url": "https://www.bbc.co.uk/news/articles/cz733dly2ero",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8814/live/81c60430-5411-11ef-b85f-ed4e21f4fdd0.jpg",
+        "publishedAt": "2024-08-06T23:22:12.4657641Z",
+        "content": "On Monday morning, sources said, Sheikh Hasina got in touch with government officials in Delhi to request sanctuary. The advice from India, a staunch ally throughout her long career, was for her to l… [+2763 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Good vibes and midwestern appeal - why Harris picked Walz",
+        "description": "His affable style and ability to land rhetorical blows on Donald Trump garnered national attention.",
+        "url": "https://www.bbc.co.uk/news/articles/c8jlldpzl7go",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/879f/live/0649bd70-541f-11ef-9750-ef79ad7ed343.jpg",
+        "publishedAt": "2024-08-06T18:52:14.9371213Z",
+        "content": "Few people had Tim Walz on their early lists of possible vice-presidential choices. But sometimes the dark horse wins the race.\r\nIn a year when \"vibes\" have been everything in politics - on the econo… [+1416 chars]"
+      }
+    ]
+  }
